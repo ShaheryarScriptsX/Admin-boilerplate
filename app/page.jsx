@@ -10,6 +10,7 @@ const Home = () => {
       </h1>
       <p className="desc text-center">
         Prompter us an open-source AI prompting tool for modern world
+        AND WE ARE CONCUIRE IT
       </p>
       <Feed />
     </section>
